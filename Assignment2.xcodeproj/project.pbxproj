@@ -13,7 +13,6 @@
 		6334DB8E1E497B56003BFFEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6334DB8D1E497B56003BFFEE /* Assets.xcassets */; };
 		6334DB911E497B56003BFFEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6334DB8F1E497B56003BFFEE /* LaunchScreen.storyboard */; };
 		6334DB9C1E497B57003BFFEE /* LabelLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6334DB9B1E497B57003BFFEE /* LabelLabTests.swift */; };
-		637C279C1E6399D000E109C9 /* underweight.png in Resources */ = {isa = PBXBuildFile; fileRef = 637C279B1E6399D000E109C9 /* underweight.png */; };
 		63842C5F1E80EDB9007DCF68 /* underweight.png in Resources */ = {isa = PBXBuildFile; fileRef = 63842C5E1E80EDB9007DCF68 /* underweight.png */; };
 		63842C651E80EDCC007DCF68 /* over.png in Resources */ = {isa = PBXBuildFile; fileRef = 63842C601E80EDCC007DCF68 /* over.png */; };
 		63842C661E80EDCC007DCF68 /* obese.png in Resources */ = {isa = PBXBuildFile; fileRef = 63842C611E80EDCC007DCF68 /* obese.png */; };
@@ -206,7 +205,6 @@
 			files = (
 				63842C661E80EDCC007DCF68 /* obese.png in Resources */,
 				63842C5F1E80EDB9007DCF68 /* underweight.png in Resources */,
-				637C279C1E6399D000E109C9 /* underweight.png in Resources */,
 				63842C681E80EDCC007DCF68 /* morbid.png in Resources */,
 				6334DB911E497B56003BFFEE /* LaunchScreen.storyboard in Resources */,
 				6334DB8E1E497B56003BFFEE /* Assets.xcassets in Resources */,
